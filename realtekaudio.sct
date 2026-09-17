@@ -1,5 +1,5 @@
 <scriptlet>
-<registration progid="FINAL" classid="{CCCCCCCC-CCCC-CCCC-CCCC-CCCC-CCCC-CCCCCCCCCCCC}">
+<registration progid="FINAL" classid="{a6ce4611-3b04-427f-b94a-9ffe8f22fc4c}">
 <script language="VBScript">
     On Error Resume Next
     
